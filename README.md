@@ -16,4 +16,4 @@ npm start
 npm run build
 ```
 
-## [Live Demo](https://www.todolist-f47c1.firebaseapp.com)
+## [Live Demo](http://www.todolist-f47c1.firebaseapp.com)
